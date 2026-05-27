@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**AllEndsours/AllEndsours** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Franco Caneto | Data Analyst | Machine Learningn Developer 
 
-Here are some ideas to get you started:
+Estudiante de Tecnicatura en Ciencias de Datos e IA (IES Colegio Universitario).  
+Construyendo un portfolio técnico orientado a roles Junior Data Analyst / ML.  
+Foco en sectores como  tecnología, industria y sector energético.
+Curioso y entusiasta. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+**Lenguajes:** Python · SQL  
+**Librerías:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
+**Herramientas:** Power BI · Excel · Git  
+
+---
+
+### Contacto
+
+📍 Córdoba, Argentina  
+💼 [LinkedIn](https://linkedin.com/in/franco-caneto)  
+📧 fran.97canet@gmail.com
+
