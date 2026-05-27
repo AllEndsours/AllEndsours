@@ -1,6 +1,6 @@
 ## Hola 👋
 
-## Franco Caneto | Data Analyst | Machine Learning Developer 
+## Franco Caneto | Data Analyst  
 
 Estudiante de Tecnicatura en Ciencias de Datos e IA (IES Colegio Universitario).  
 Construyendo un portfolio técnico orientado a roles Junior Data Analyst / ML.  
